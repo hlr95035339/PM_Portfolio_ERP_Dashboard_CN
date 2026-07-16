@@ -19,17 +19,16 @@
 
 ### 🔗 Trello 看板（給工程師）
 - [查看 Trello 看板 (線上)](https://trello.com/b/xxxxxx)  
-- [下載 Trello 看板快照 (PDF)](docs/TrelloBoard.pdf)   
+- [下載 Trello 看板快照 (PDF)](TrelloBoard.pdf)   
 > 用來追蹤技術任務、進度與協作。
 
 ### 📊 甘特圖（給老闆 / 管理層）
-- ![甘特圖](docs/Grantt_for_ERP.png)  
-- [下載甘特圖 (PDF)](docs/Grantt_for_ERP.pdf)  
-> 提供專案整體時程、里程碑與進度規劃。
+- ![甘特圖](Grantt_for_ERP.png)   
+> 提供與匯報專案整體時程、里程碑與進度規劃。
 
 ### 📘 使用者手冊（給客戶）
-- <img src="docs/User_Guide_forERP.png" alt="使用者手冊" width="400">  
-- [下載使用者手冊 (PDF)](docs/User_Guide_forERP.pdf)  
+- <img src="User_Guide_forERP.png" alt="使用者手冊" width="400">  
+- [下載使用者手冊 (PDF)](User_Guide_forERP.pdf)  
 > 提供系統操作說明，確保客戶能順利使用 ERP 儀表板。
 
 ---
@@ -41,7 +40,7 @@
 - 🔵 文件 / 使用者手冊  
 - 🟣 測試 / 品質保證  
 - 🟠 管理 / 專案管理工作  
-- ⚪ 已完成 / Done  
+- ⚪ 已完成 
 
 ---
 

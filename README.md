@@ -30,7 +30,7 @@
 ### 使用者手冊（給客戶）
 > 提供系統操作說明，確保客戶能順利使用 ERP 儀表板。
  <img src="User_Guide_forERP.png" alt="使用者手冊" width="400">  
-- [下載用_使用者手冊 (PDF)](User_Guide_forERP.pdf)  
+- [下載使用者手冊 (PDF)](User_Guide_forERP.pdf)  
 
 ---
 

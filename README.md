@@ -84,7 +84,7 @@
 <img src="User_Guide_forERP.png" alt="User Guide" style="width:40%;"><img src="User_Guide_forERP..png" alt="User Guide" style="width:42%;">
 
 ---
-## 專案反思
+## 專案管理成果
 
 - 透過 Trello 看板清楚追蹤任務（每週更新給工程團隊）
 - 使用甘特圖結構化時間線（每週更新給管理層，確保進度透明）

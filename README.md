@@ -62,9 +62,8 @@
 
 ### Trello （給工程師）
 > 用來追蹤技術任務、進度與協作。
- [查看線上 Trello]
 
-(https://trello.com/invite/b/6a56f5d03ec78862594e025d/ATTIfde492f2c1d0caa745c47d3dc8df73fbD2982C47/🗓️-weekly-workflow)  
+ [查看線上 Trello](https://trello.com/invite/b/6a56f5d03ec78862594e025d/ATTIfde492f2c1d0caa745c47d3dc8df73fbD2982C47/🗓️-weekly-workflow)  
 
 <img src="./TrelloBoard.png" alt="Trello Board Snapshot" width="80%">
 

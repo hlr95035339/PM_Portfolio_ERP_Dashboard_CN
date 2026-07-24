@@ -60,24 +60,27 @@
 
 ## 專案管理總覽
 
-### Trello 看板（給工程師）
+### Trello （給工程師）
 > 用來追蹤技術任務、進度與協作。
-- [查看 Trello 看板 (線上)(https://trello.com/invite/b/6a56f5d03ec78862594e025d/ATTIfde492f2c1d0caa745c47d3dc8df73fbD2982C47/🗓️-weekly-workflow)  
+ [查看線上 Trello]
+
+(https://trello.com/invite/b/6a56f5d03ec78862594e025d/ATTIfde492f2c1d0caa745c47d3dc8df73fbD2982C47/🗓️-weekly-workflow)  
 
 <img src="./TrelloBoard.png" alt="Trello Board Snapshot" width="80%">
 
 ### 甘特圖（給老闆 / 管理層）
 > 提供與匯報專案整體時程、里程碑與進度規劃。
+
  ![甘特圖](Grantt_for_ERP-1.png)
 
 進階版甘特圖
 > 目的： 進階版甘特圖顯示優於基礎版的需求，確保能反映真實需求，例如資安、擴展性與維護性。
+
  ![ 進階版甘特圖](Grantt_for_ERP.png)
 
 ### 使用者手冊（給客戶）
 > 提供系統操作說明，確保客戶能順利使用 ERP 儀表板。
--  [下載使用者手冊 (PDF)]
-- [User Guide (PDF)](User_Guide_forERP.pdf)
+-  [下載使用者手冊 (PDF)](User_Guide_forERP.pdf)
   
 <img src="User_Guide_forERP.png" alt="User Guide" style="width:40%;"><img src="User_Guide_forERP..png" alt="User Guide" style="width:42%;">
 
